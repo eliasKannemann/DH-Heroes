@@ -1,0 +1,29 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+    color: chocolate;
+    background-color: paleturquoise;
+  
+}
+ul{
+    font-size: 50px;
+    text-align: center
+}
+.principal{
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+    background-color: black;
+    
+}
+
+#bonnie{
+    text-align: center;
+    
+}
+
+#bobba{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
